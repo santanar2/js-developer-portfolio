@@ -46,31 +46,31 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Cursos em Tecnologias em aprendizagem",
+      "url": "https://github.com/santanar2/santanar2",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Curso na DIO para aprendizado profissional",
+      "url": "https://www.linkedin.com/in/ricardo-hon%C3%B3rio-de-santana-630a9493/details/certifications/",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Técnico em  Manutenção de Equipamentos Fixos CCO",
+      "period": "2021 - até o momento",
+      "description": "Servidores Alstom e Siemens, sistema de transmissão óptico CISCO, SAGEM, sistema de gravação em telefonia, Rádio Tetra Motorola e Sinalização. "
     },
     {
-      "name": "Software Engineering Lead / DIO",
+      "name": "Técnico de Telecomunicação  / FIBRANETBR",
       "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "description": "B2B, B2C, Telecomunicação, Instalador e Reparo, Manutenção  Preventiva e Corretiva, Configuração de equipamento, 5s, Análise de risco, Análise infra, Confecção de conectores de fibra óptica, Fusão, Instalação de Internet."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Técnico FTTX",
+      "period": "2019 - 2020",
+      "description": "B2B, B2C, Telecomunicação, Instalador e Reparo, Manutenção  Preventiva e Corretiva, Configuração de equipamento, 5s, Análise de risco, Análise infra, Confecção de conectores de fibra óptica, Fusão, Instalação de Internet, Voip e Iptv, Confecção de conector cabo utp e Confecção de Conector cabo coaxial ."
     }
   ]
 }

@@ -12,24 +12,24 @@
         "logo": "https://assets.dio.me/rkO44OeBRslqd4_xCfrfU81zuulhXYMCMGqL0RvsSOk/f:webp/h:120/q:80/L3RyYWNrcy9iZGM3Y2MxOS1jNzk2LTQ2YTItYjc2Ny1lOGJkYzIwMWZjYjgucG5n"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "GitHub Copilot",
+        "logo": "https://assets.dio.me/SqMnk-_40m3vJHGEqaMYQV3qH6zf4HiFoO_liSwpfCU/f:webp/h:120/q:80/L3RyYWNrcy9lM2U3YjA1Mi1hYzJiLTRhZGMtODAzMS1hZDAxZDY1NjM1NjQucG5n"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "name": "Prompts Inteligentes",
+        "logo": "https://assets.dio.me/w1dt0anJB7fK8QpuoG2aXL1oRX7mWxyF2-wx1phsPUc/f:webp/h:120/q:80/L3RyYWNrcy9kNWQ4M2ZkNC0zOTljLTRiOTctOGUyZS03OTNiYjg3ZTYzMGEucG5n"
       },
       {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "name": "CSS Developer",
+        "logo": "https://assets.dio.me/csdMw6lFc_NrnmT7RePkdhlnqreI4lkDIJdLLz7HaDg/f:webp/h:159/q:80/w:339/L3RyYWNrcy9jb3Zlci82ZWU4N2VlZi0yNjdjLTQzZGMtYWJjZC1jZWZjZDk4NzYyY2YucG5n"
       },
       {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "name": "Java Script Developer",
+        "logo": "https://assets.dio.me/G8J0FWfg_sxZWslOtL6qkWF0jw2gsQOUroWEaKAJD-c/f:webp/h:159/q:80/w:339/L3RyYWNrcy9jb3Zlci8wMDI1YzZiZi1kOGQwLTQ0ZDUtYTU0Ni03NTdlMzI1OGU5YjkucG5n"
       },
       {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "Primeiros Passos com Java",
+        "logo": "https://assets.dio.me/x7b_MuhmYIJNrfaC4ylPlonl2iva9KtnP2Y07e3yFrE/f:webp/h:120/q:80/L3RyYWNrcy83NTUyMmVmNi00Y2RjLTQzNjktYWUwYy0zMGNmNjhjZDM3ZDcucG5n"
       }
     ],
     "softSkills": [
@@ -42,9 +42,7 @@
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Inglês (iniciante)"
   ],
   "portfolio": [
     {

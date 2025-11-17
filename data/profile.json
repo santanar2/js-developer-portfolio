@@ -12,24 +12,24 @@
         "logo": "https://assets.dio.me/SqMnk-_40m3vJHGEqaMYQV3qH6zf4HiFoO_liSwpfCU/f:webp/h:120/q:80/L3RyYWNrcy9lM2U3YjA1Mi1hYzJiLTRhZGMtODAzMS1hZDAxZDY1NjM1NjQucG5n"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "HTML Developer",
+        "logo": "https://assets.dio.me/PXTHzpYRJjOb5iSXboRqYrTpSTGIFVuStrwRtsTpVUc/f:webp/h:120/q:80/L3RyYWNrcy82MmVkMWYxZC04ZDc2LTRiYmMtOTA1Zi1lNzNkMjBjYjgyZjUucG5n"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "name": "Santander - Front-End 2025",
+        "logo": "https://assets.dio.me/rkO44OeBRslqd4_xCfrfU81zuulhXYMCMGqL0RvsSOk/f:webp/h:120/q:80/L3RyYWNrcy9iZGM3Y2MxOS1jNzk2LTQ2YTItYjc2Ny1lOGJkYzIwMWZjYjgucG5n"
       },
       {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "name": "Prompts Inteligentes Microsoft",
+        "logo": "https://assets.dio.me/rkO44OeBRslqd4_xCfrfU81zuulhXYMCMGqL0RvsSOk/f:webp/h:120/q:80/L3RyYWNrcy9iZGM3Y2MxOS1jNzk2LTQ2YTItYjc2Ny1lOGJkYzIwMWZjYjgucG5n"
       },
       {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "name": "CSS Web Developer",
+        "logo": "https://assets.dio.me/gt-tEnhv4_p33iwDXfI-zutfiEJ-q27qVfDCcnLV7I0/f:webp/h:120/q:80/L3RyYWNrcy9kYTA0M2M3YS03MTg5LTQ0MWUtYmYyOC1hZGMyZDA1YTQ5MzQucG5n"
       },
       {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "Java Primeiro Passos",
+        "logo": "https://assets.dio.me/gt-tEnhv4_p33iwDXfI-zutfiEJ-q27qVfDCcnLV7I0/f:webp/h:120/q:80/L3RyYWNrcy9kYTA0M2M3YS03MTg5LTQ0MWUtYmYyOC1hZGMyZDA1YTQ5MzQucG5n"
       }
     ],
     "softSkills": [
@@ -47,31 +47,31 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "GITHUB",
+      "url": "https://github.com/santanar2/santanar2https://github.com/RenanJPaula/js-developer-pokedex",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "LINKEDIN",
+      "url": "https://www.linkedin.com/in/ricardo-hon%C3%B3rio-de-santana-630a9493/https://github.com/RenanJPaula/js-developer-portfolio",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "MOTIVA / Técnico em  Manutenção de Equipamentos Fixos CCO",
+      "period": "2021 - até o momento",
+      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado.( CCO ) Centro de Controle Operacional, equipe responsável pelo restabelecimento dos sistemas"
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "FIBRANETBR TECNOLOGIA / Técnico de Telecomunicações",
+      "period": "2021 - 2021 7 meses",
+      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas.B2B, B2C, Telecomunicação, Instalador e Reparo, Manutenção  Preventiva e Corretiva, Configuração de equipamento, 5s, Análise de risco, Análise infra, Confecção de conectores de fibra óptica, Fusão, Instalação de Internet."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "ICOMON TECNOLOGIA / Técnico FTTX",
+      "period": "2019 - 2019 9 meses",
+      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundoB2B, B2C, Telecomunicação, Instalador e Reparo, Manutenção  Preventiva e Corretiva, Configuração de equipamento, 5s, Análise de risco, Análise infra, Confecção de conectores de fibra óptica, Fusão, Instalação de Internet.."
     }
   ]
 }

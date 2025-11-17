@@ -1,7 +1,9 @@
 📋 Sobre o Projeto
 Portfólio pessoal desenvolvido para apresentar minhas habilidades, experiências profissionais e projetos como Tecnólogo em Análise e Desenvolvimento de Sistemas.
 
-![assets/img/preview.jpg]
+![Preview do Portfólio](assets/img/preview.JPG)
+
+
 
 
 🚀 Tecnologias Utilizadas

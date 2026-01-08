@@ -16,10 +16,6 @@
         "logo": "https://assets.dio.me/PXTHzpYRJjOb5iSXboRqYrTpSTGIFVuStrwRtsTpVUc/f:webp/h:120/q:80/L3RyYWNrcy82MmVkMWYxZC04ZDc2LTRiYmMtOTA1Zi1lNzNkMjBjYjgyZjUucG5n"
       },
       {
-        "name": "Santander - Front-End 2025",
-        "logo": "https://assets.dio.me/rkO44OeBRslqd4_xCfrfU81zuulhXYMCMGqL0RvsSOk/f:webp/h:120/q:80/L3RyYWNrcy9iZGM3Y2MxOS1jNzk2LTQ2YTItYjc2Ny1lOGJkYzIwMWZjYjgucG5n"
-      },
-      {
         "name": "Prompts Inteligentes Microsoft",
         "logo": "https://assets.dio.me/w1dt0anJB7fK8QpuoG2aXL1oRX7mWxyF2-wx1phsPUc/f:webp/h:120/q:80/L3RyYWNrcy9kNWQ4M2ZkNC0zOTljLTRiOTctOGUyZS03OTNiYjg3ZTYzMGEucG5n"
       },
@@ -32,6 +28,14 @@
         "logo": "https://assets.dio.me/N3ET28fsUKPyJZb6mh6vdqhVziWjbk3xPNlE_velBWs/f:webp/h:120/q:80/L3RyYWNrcy85NzIyOTdkYy00MzU3LTRhZjQtYWJlYS04OWEzODg1M2E5NDkucG5n"
       }
     ],
+
+    "hardBootCamp": [
+      {
+      "name": "Santander - Front-End 2025",
+        "logo": "https://assets.dio.me/rkO44OeBRslqd4_xCfrfU81zuulhXYMCMGqL0RvsSOk/f:webp/h:120/q:80/L3RyYWNrcy9iZGM3Y2MxOS1jNzk2LTQ2YTItYjc2Ny1lOGJkYzIwMWZjYjgucG5n"
+      }
+    ],
+
     "softSkills": [
       "Empatia",
       "Liderança",
@@ -48,13 +52,13 @@
   "portfolio": [
     {
       "name": "GITHUB",
-      "url": "https://github.com/santanar2/santanar2https://github.com/RenanJPaula/js-developer-pokedex",
+      "url": "https://github.com/santanar2",
       "github": true
     },
     {
       "name": "LINKEDIN",
-      "url": "https://www.linkedin.com/in/ricardo-hon%C3%B3rio-de-santana-630a9493/https://github.com/RenanJPaula/js-developer-portfolio",
-      "github": true
+      "url": "https://www.linkedin.com/in/ricardo-hon%C3%B3rio-de-santana-630a9493/",
+      "linkedin": true
     }
   ],
   "professionalExperience": [
